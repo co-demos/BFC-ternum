@@ -1,41 +1,40 @@
-# arborescence du site "Regard sur les tiers-lieux en Pays de la Loire"
+# arborescence du site "Cartographie des structures de la médiation numérique en Bourgogne-Franche-Comté"
 
 ## équipe 
 
-- Charlotte (typologies, data, contenus)
-- Mona (design, contenus)
-- Meven (jeux de données, contenus)
+- Jean-Christophe (typologies, desig, jeux de données, data, contenus)
+- Bruno Louis (design, contenus, technique)
+- Corine (contenus)
 
 ## arborescence
 
 ```
 .
-+-- home : vue carte par défaut - niveau de zoom Pays de la Loire
-+-- recherche: vue carte par défaut - niveau de zoom Pays de la Loire
-+-- présentation (méthodologie, démarche)
-|   +-- données ouvertes, license de la base de données (assemblage) - à mentionner dans la démarche
++-- home : page d'accueil avec présentation
++-- La cartographie: vue carte par défaut - niveau de zoom Bourgogne-Franche-Comté
++-- MedNum BFC
 ```
 
-## footer / réseaux sociaux
+## footer
 ```
 
-+-- footer (trois colonnes possibles)
-|   +-- Partenaires (renvoyer vers leurs sites)
-|   |   +-- Logo Région Pays de la Loire [https://www.paysdelaloire.fr/index.php?id=122]
-|   |   +-- Logo CGET/ANCT [https://www.cget.gouv.fr/]
-|   |   +-- Logo CRESS http://www.cress-pdl.org/
-|   +-- Pour aller plus loin
-|   |   +-- Movilab [https://movilab.org/index.php?title=Accueil]
-|   |   +-- Association France Tiers-lieux [https://francetierslieux.fr/]
-|   |   +-- Mission coworking CGET [https://www.cget.gouv.fr/actualites/l-etat-s-engage-pour-soutenir-et-accelerer-la-dynamique-des-tiers-lieux-dans-les-territoires]
-|   +-- PiNG
-|   |   +-- Description de PiNG: Comment le numérique transforme-t-il notre société ? Quel est son impact sur notre environnement social, technologique, artistique, naturel ? PiNG invite les citoyen·nes et les professionnel·les à des temps de découverte, de pratique et d’échange pour se ré-approprier ensemble les technologies qui nous entourent. En savoir plus (hyperlien vers pingbase.net)
-|   |   +-- Mentions légales 
-
-+-- Liens réseaux sociaux
-|   +-- Twitter PiNG
-|   +-- Facebook PiNG
-|   +-- Github PiNG ?
++-- footer (trois colonnes)
+|   +-- MedNum BFC (renvoyer vers leurs sites)
+|   |   +-- Accueil [https://mednum-bfc.fr/
+|   |   +-- Contact [https://mednum-bfc.fr/pour-nous-contacter-cest-simple/]
+|   |   +-- À propos [https://mednum-bfc.fr/mednum-bfc-la-mission-regionale-pour-la-mediation-numerique/
+|   |   +-- Nos offres et services [https://mednum-bfc.fr/nos-offres-et-services/]
+|   |   +-- Mentions légales
+|   +-- Nos sites
+|   |   +-- Le réseau régional des acteurs du numérique [https://humhub.bfc.link/]
+|   |   +-- Territoires & Numérique [https://numerique-bfc.fr/]
+|   |   +-- Cartographie des structures de la médiation numérique en Bourgogne-Franche-Comté [https://bfc-carto.netlify.com/]
+|   +-- Nos partenaires
+|   |   +-- GIP Territoires Numériques BFC [http://www.ternum-bfc.fr/]
+|   |   +-- Conseil régional de Bourgogne-Franche-Comté [https://www.bourgognefranchecomte.fr/]
+|   |   +-- Banque des Territoires [https://www.banquedesterritoires.fr/]
+|   |   +-- Mission Société Numérique [https://societenumerique.gouv.fr/]
+|   |   +-- La MedNum [https://lamednum.coop/]
 
 +-- Par défaut, "propulsé par ApiViz etc" 
 
@@ -43,40 +42,50 @@
 
 ## design
 
-- Logo principal (dans la barre de navigation): PiNG 
+- Logo principal (dans la barre de navigation): MedNum BFC 
 - Sélection des modes de vision des données: à minima carte, liste, tableur
-- Quels logos ? PiNG, Région, CGET, CRESS (footer)
-- Quelles couleurs ? Les deux couleurs utilisées sur le site de PiNG sont : #00c0aa (vertPiNG) et #0E0F35 (bleu foncé).
+- Quelles couleurs ? Les trois couleurs principales utilisées sur le site de MedNum BFC sont : #293e86 (bleu foncé), #f24c61 (rouge) et #37bec1 (turquoise).
 - Quelles typos? La typo utilisée sur le site de PiNG est Poppins https://fonts.google.com/specimen/Poppins
-- Quelle URL ? cartes.pingbase.net/tierslieux
-- Quel nom pour cette carte ? Regards sur les tiers-lieux en Pays de la Loire
+- Quelle URL ? https://mednum-bfc.fr/cartographie
+- Quel nom pour cette carte ? Cartographie des structures de la médiation numérique en Bourgogne-Franche-Comté
 - site uniquement en français, pas de version multilingue
 
 ## filtres 
 ```
 Note: on doit pouvoir cocher plusieurs catégories dans chaque filtre et plusieurs filtres ensemble.
 
-+-- Sources
-|   +-- PiNG
-|   +-- CGET
-|   +-- CRESS
-
-+-- Typologies de lieux
-|   +-- Renouveler le travail
-|   +-- Oeuvrer ensemble
-|   +-- Explorer collectivement
-|   +-- Repenser sa consommation
-
 +-- Département
-|   +-- Loire-Atlantique
-|   +-- Maine et Loire
-|   +-- Mayenne
-|   +-- Sarthe
-|   +-- Vendée
+|   +-- Côte-d'Or
+|   +-- Doubs
+|   +-- Haute-Saône
+|   +-- Jura
+|   +-- Nièvre
+|   +-- Saône-et-Loire
+|   +-- Territoire de Belfort
+|   +-- Yonne
 
-+-- Publics
-|   +-- Professionnels
-|   +-- Citoyens
++-- Accessibilité
+|   +-- Non accessible
+|   +-- Malentendant
+|   +-- Moteur
+|   +-- Personne à Mobilité Réduite
+|   +-- Malvoyant
+|   +-- Handicap mental & psychique
+
++-- Labellisation
+|   +-- APTIC
+|   +-- Espace de coworking
+|   +-- FabLab
+|   +-- FabLab solidaire Orange
+|   +-- France Tiers Lieu
+|   +-- Maison de Services Au Public
+|   +-- Maison France Services
+|   +-- Nièvre médiation numérique
+|   +-- PANDA
+|   +-- Réseau inclusion numérique Chalon
+
++-- Modalités d'accompagnement
+|   +-- 
 
 ```
 
