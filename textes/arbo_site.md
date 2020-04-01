@@ -65,12 +65,13 @@ Note: on doit pouvoir cocher plusieurs catégories dans chaque filtre et plusieu
 |   +-- Yonne
 
 +-- Accessibilité
-|   +-- Non accessible
-|   +-- Malentendant
-|   +-- Moteur
-|   +-- Personne à Mobilité Réduite
-|   +-- Malvoyant
 |   +-- Handicap mental & psychique
+|   +-- Malentendant
+|   +-- Malvoyant
+|   +-- Moteur
+|   +-- Non accessible
+|   +-- Non renseigné
+|   +-- Personne à Mobilité Réduite
 
 +-- Labellisation
 |   +-- APTIC
@@ -89,7 +90,7 @@ Note: on doit pouvoir cocher plusieurs catégories dans chaque filtre et plusieu
 
 ```
 
-## fiche (dans liste)
+## fiche (dans liste) A FAIRE ENCORE
 
 ```
 Chaque fiche que l'on retrouvera dans liste doit mettre en forme les informations suivantes du tableur
@@ -110,7 +111,7 @@ Chaque fiche que l'on retrouvera dans liste doit mettre en forme les information
 |   +-- modèle juridique
 
 ```
-## tableur
+## tableur A FAIRE ENCORE
 
 ```
 Le tableur aura pour entrées:
