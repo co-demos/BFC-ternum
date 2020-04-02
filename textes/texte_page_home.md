@@ -26,4 +26,4 @@ Pour les structures de la médiation numériques qui souhaitent connaitre le ré
 
 Des données à jour [en gras]
 
-C’est un outil au service des acteurs de la médiation numérique et une cartographie n'a de sens que si les informations qui y sont présentes sont à jour. Vous êtes donc invités à contribuer à sa mise à jour et à son fonctionnement, en accédant (au formulaire en ligne pour déclarer votre lieu de médiation numérique ou mettre à jour les informations le concernant https://mednum-bfc.fr/maj-lieu/].
+C’est un outil au service des acteurs de la médiation numérique et une cartographie n'a de sens que si les informations qui y sont présentes sont à jour. Vous êtes donc invités à contribuer à sa mise à jour et à son fonctionnement, en accédant (au formulaire en ligne pour déclarer votre lieu de médiation numérique ou mettre à jour les informations le concernant https://www.mednum-bfc.fr/maj-lieu/].
