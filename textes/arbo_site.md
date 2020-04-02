@@ -2,7 +2,7 @@
 
 ## équipe 
 
-- Jean-Christophe (typologies, desig, jeux de données, data, contenus)
+- Jean-Christophe (typologies, design, jeux de données, data, contenus)
 - Bruno Louis (design, contenus, technique)
 - Corine (contenus)
 
@@ -20,14 +20,14 @@
 
 +-- footer (trois colonnes)
 |   +-- MedNum BFC (renvoyer vers leurs sites)
-|   |   +-- Accueil [https://mednum-bfc.fr/
-|   |   +-- Contact [https://mednum-bfc.fr/pour-nous-contacter-cest-simple/]
-|   |   +-- À propos [https://mednum-bfc.fr/mednum-bfc-la-mission-regionale-pour-la-mediation-numerique/
-|   |   +-- Nos offres et services [https://mednum-bfc.fr/nos-offres-et-services/]
+|   |   +-- Accueil [https://www.mednum-bfc.fr/]
+|   |   +-- Contact [https://www.mednum-bfc.fr/pour-nous-contacter-cest-simple/]
+|   |   +-- À propos [https://www.mednum-bfc.fr/mednum-bfc-la-mission-regionale-pour-la-mediation-numerique/
+|   |   +-- Nos offres et services [https://www.mednum-bfc.fr/nos-offres-et-services/]
 |   |   +-- Mentions légales
 |   +-- Nos sites
 |   |   +-- Le réseau régional des acteurs du numérique [https://humhub.bfc.link/]
-|   |   +-- Territoires & Numérique [https://numerique-bfc.fr/]
+|   |   +-- Numérique & Territoires [https://www.numerique-bfc.fr/]
 |   |   +-- Cartographie des structures de la médiation numérique en Bourgogne-Franche-Comté [https://bfc-carto.netlify.com/]
 |   +-- Nos partenaires
 |   |   +-- GIP Territoires Numériques BFC [http://www.ternum-bfc.fr/]
@@ -46,7 +46,7 @@
 - Sélection des modes de vision des données: à minima carte, liste, tableur
 - Quelles couleurs ? Les trois couleurs principales utilisées sur le site de MedNum BFC sont : #293e86 (bleu foncé), #f24c61 (rouge) et #37bec1 (turquoise).
 - Quelles typos? La typo utilisée sur le site de PiNG est Poppins https://fonts.google.com/specimen/Poppins
-- Quelle URL ? https://mednum-bfc.fr/cartographie
+- Quelle URL ? https://cartographie.mednum-bfc.fr/
 - Quel nom pour cette carte ? Cartographie des structures de la médiation numérique en Bourgogne-Franche-Comté
 - site uniquement en français, pas de version multilingue
 
@@ -64,14 +64,11 @@ Note: on doit pouvoir cocher plusieurs catégories dans chaque filtre et plusieu
 |   +-- Territoire de Belfort
 |   +-- Yonne
 
-+-- Accessibilité
-|   +-- Handicap mental & psychique
-|   +-- Malentendant
-|   +-- Malvoyant
-|   +-- Moteur
-|   +-- Non accessible
-|   +-- Non renseigné
-|   +-- Personne à Mobilité Réduite
++-- Typologie
+|   +-- 
+|   +-- 
+|   +-- 
+
 
 +-- Labellisation
 |   +-- APTIC
