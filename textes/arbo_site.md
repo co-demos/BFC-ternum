@@ -45,7 +45,7 @@
 - Logo principal (dans la barre de navigation): MedNum BFC 
 - Sélection des modes de vision des données: à minima carte, liste, tableur
 - Quelles couleurs ? Les trois couleurs principales utilisées sur le site de MedNum BFC sont : #293e86 (bleu foncé), #f24c61 (rouge) et #37bec1 (turquoise).
-- Quelles typos? La typo utilisée sur le site de PiNG est Poppins https://fonts.google.com/specimen/Poppins
+- Quelles typos? La typo utilisée sur le site de MedNum BFC est Poppins https://fonts.google.com/specimen/Poppins
 - Quelle URL ? https://cartographie.mednum-bfc.fr/
 - Quel nom pour cette carte ? Cartographie des structures de la médiation numérique en Bourgogne-Franche-Comté
 - site uniquement en français, pas de version multilingue
