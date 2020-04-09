@@ -44,15 +44,19 @@
 
 - Logo principal (dans la barre de navigation): MedNum BFC 
 - Sélection des modes de vision des données: à minima carte, liste, tableur
-- Quelles couleurs ? Les trois couleurs principales utilisées sur le site de MedNum BFC sont : #293e86 (bleu foncé), #f24c61 (rouge) et #37bec1 (turquoise).
+- Quelles couleurs ? Les trois couleurs principales utilisées sur le site de MedNum BFC sont : 
+  - #293e86 (bleu foncé), 
+  - #f24c61 (rouge) et 
+  - #37bec1 (turquoise).
 - Quelles typos? La typo utilisée sur le site de MedNum BFC est Poppins https://fonts.google.com/specimen/Poppins
 - Quelle URL ? https://cartographie.mednum-bfc.fr/
 - Quel nom pour cette carte ? Cartographie des structures de la médiation numérique en Bourgogne-Franche-Comté
 - site uniquement en français, pas de version multilingue
 
 ## filtres 
-```
+
 Note: on doit pouvoir cocher plusieurs catégories dans chaque filtre et plusieurs filtres ensemble.
+```
 
 +-- Département
 |   +-- Côte-d'Or
@@ -70,6 +74,7 @@ Note: on doit pouvoir cocher plusieurs catégories dans chaque filtre et plusieu
 |   +-- Lieu de médiation publique
 |   +-- Lieu de médiation et de fabrication
 |   +-- Lieu de travail et de collaboration
+
 
 +-- Labellisation
 |   +-- APTIC
@@ -93,12 +98,13 @@ Note: on doit pouvoir cocher plusieurs catégories dans chaque filtre et plusieu
 |   +-- Atelier de réparation informatique
 
 ```
-## vues
-```
-Mode fiche (dans liste) A FAIRE ENCORE
+
+## fiche (dans liste) A FAIRE ENCORE
 
 Chaque fiche que l'on retrouvera dans liste doit mettre en forme les informations suivantes du tableur
-+-- encadré 1
+```
+
++-- vue liste
 |   +-- image  
 |   +-- ville
 |   +-- nom du lieu
@@ -115,9 +121,11 @@ Chaque fiche que l'on retrouvera dans liste doit mettre en forme les information
 |   +-- modèle juridique
 
 ```
-# mode table
+## tableur A FAIRE ENCORE
 
 Le tableur aura pour entrées:
+```
++-- tableur
 |   +-- détails renvoyant vers la page de présentation dédiée (cf fiche)
 |   +-- Nom du lieu
 |   +-- Adresse du lieu
