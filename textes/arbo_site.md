@@ -92,7 +92,9 @@ Note: on doit pouvoir cocher plusieurs catégories dans chaque filtre et plusieu
 |   +-- Accompagnement en groupe sur inscription
 |   +-- Atelier de réparation informatique
 
-## fiche (dans liste) A FAIRE ENCORE
+## vues 
+```
+# fiche (dans liste) A FAIRE ENCORE
 
 ```
 Chaque fiche que l'on retrouvera dans liste doit mettre en forme les informations suivantes du tableur
@@ -113,7 +115,7 @@ Chaque fiche que l'on retrouvera dans liste doit mettre en forme les information
 |   +-- modèle juridique
 
 ```
-## mode table
+# mode table
 
 Le tableur aura pour entrées:
 |   +-- détails renvoyant vers la page de présentation dédiée (cf fiche)
