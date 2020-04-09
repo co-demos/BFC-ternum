@@ -1,5 +1,6 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/cbd34edb-344d-4b16-9782-079050650128/deploy-status)](https://app.netlify.com/sites/bfc-carto/deploys)
 
+
 ## INFORMATIONS / METHODOLOGIE
 Ce repo contiendra l'ensemble des éléments "custom" propres au projet de cartographie, indépendamment du code source d'Apiviz. Ceci permettra une meilleure flexibilité et coordination : 
 - le chantier purement technique s'effectuera sur le repo ApiViz, dans le but d'en améliorer la généricité
