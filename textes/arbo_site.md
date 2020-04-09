@@ -65,10 +65,11 @@ Note: on doit pouvoir cocher plusieurs catégories dans chaque filtre et plusieu
 |   +-- Yonne
 
 +-- Typologie
-|   +-- 
-|   +-- 
-|   +-- 
-
+|   +-- Lieu d'information et d'accès aux droits
+|   +-- Lieu de formation
+|   +-- Lieu de médiation publique
+|   +-- Lieu de médiation et de fabrication
+|   +-- Lieu de travail et de collaboration
 
 +-- Labellisation
 |   +-- APTIC
@@ -80,14 +81,20 @@ Note: on doit pouvoir cocher plusieurs catégories dans chaque filtre et plusieu
 |   +-- Maison France Services
 |   +-- Nièvre médiation numérique
 |   +-- PANDA
-|   +-- Réseau inclusion numérique Chalon
+|   +-- Réseau inclusion numérique Chalon 
+|   +-- Réseau Dijon métropole
+|   +-- Signataire de la charte des tiers-lieux
 
 +-- Modalités d'accompagnement
-|   +-- 
+|   +-- En autonomie
+|   +-- Accès libre avec accompagnement
+|   +-- Accompagnement individuel sur rendez-vous
+|   +-- Accompagnement en groupe sur inscription
+|   +-- Atelier de réparation informatique
 
+## vues 
 ```
-
-## fiche (dans liste) A FAIRE ENCORE
+# fiche (dans liste) A FAIRE ENCORE
 
 ```
 Chaque fiche que l'on retrouvera dans liste doit mettre en forme les informations suivantes du tableur
@@ -108,12 +115,12 @@ Chaque fiche que l'on retrouvera dans liste doit mettre en forme les information
 |   +-- modèle juridique
 
 ```
-## tableur A FAIRE ENCORE
+# mode table
 
-```
 Le tableur aura pour entrées:
 |   +-- détails renvoyant vers la page de présentation dédiée (cf fiche)
 |   +-- Nom du lieu
+|   +-- Adresse du lieu
 |   +-- Ville
-|   +-- Typologie
-|   +-- Sources
+|   +-- Téléphone
+|   +-- Site internet
