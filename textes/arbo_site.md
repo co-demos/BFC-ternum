@@ -113,9 +113,8 @@ Chaque fiche que l'on retrouvera dans liste doit mettre en forme les information
 |   +-- modèle juridique
 
 ```
-## tableur
+## mode table
 
-```
 Le tableur aura pour entrées:
 |   +-- détails renvoyant vers la page de présentation dédiée (cf fiche)
 |   +-- Nom du lieu
