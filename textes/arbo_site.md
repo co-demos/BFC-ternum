@@ -92,11 +92,11 @@ Note: on doit pouvoir cocher plusieurs catégories dans chaque filtre et plusieu
 |   +-- Accompagnement en groupe sur inscription
 |   +-- Atelier de réparation informatique
 
-## vues 
 ```
-# fiche (dans liste) A FAIRE ENCORE
+## vues
+```
+Mode fiche (dans liste) A FAIRE ENCORE
 
-```
 Chaque fiche que l'on retrouvera dans liste doit mettre en forme les informations suivantes du tableur
 +-- encadré 1
 |   +-- image  
