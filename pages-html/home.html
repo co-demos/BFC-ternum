@@ -18,28 +18,40 @@
   .is-horizontal-center {
     justify-content: center;
   }
+
   
   .top-section{
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding:5em 0 3em 0 ;
+    padding:3em 0 3em 0 ;
+  }
+  .bfc-title {
+    margin-bottom : 0 !important;
+    padding: 1em 0 1em 0;
+  }
+  .bfc-title-background{
+    background-image: url('https://raw.githubusercontent.com/co-demos/BFC-ternum/master/illustrations/fonds-mediation-1024x384.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    margin-bottom: 3em;
   }
 
 </style>
 
-<main id="home">
+<div id="home">
 
 
   <div
-    class="top-section"
-    style="background-image: url('https://raw.githubusercontent.com/co-demos/BFC-ternum/master/illustrations/fonds-mediation-1024x384.jpg');"
+    class="top-section bfc-title-background"
     >
     <br>
     <h1 
-      class="title is-1 has-text-centered has-text-white"
+      class="title bfc-title is-1 has-text-centered has-text-white"
       >
-      Cartographie des structures de la médiation numérique en Bourgogne-Franche-Comté
+      Cartographie des structures de la médiation numérique 
+      <br>en Bourgogne-Franche-Comté
     </h1>
     <br>
   </div>
@@ -185,4 +197,4 @@ formulaire en ligne pour déclarer votre lieu de médiation numérique ou mettre
   <br>
   <br>
 
-</main>
+</div>
