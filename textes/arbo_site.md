@@ -11,7 +11,7 @@
 ```
 .
 +-- home : page d'accueil avec présentation
-+-- La cartographie: vue carte par défaut - niveau de zoom Bourgogne-Franche-Comté
++-- La carte: vue carte par défaut - niveau de zoom Bourgogne-Franche-Comté
 +-- MedNum BFC
 ```
 
