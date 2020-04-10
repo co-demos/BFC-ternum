@@ -12,7 +12,7 @@
 .
 +-- home : page d'accueil avec présentation
 +-- La carte: vue carte par défaut - niveau de zoom Bourgogne-Franche-Comté
-+-- MedNum BFC
++-- MedNum BFC [https://www.mednum-bfc.fr/]
 ```
 
 ## footer
