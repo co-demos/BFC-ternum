@@ -1,4 +1,4 @@
-Cartographie des structures de la médiation numérique en Bourgogne-Franche-Comté [titre] [en blanc sur fond de l'image fonds-mediation.jpg]
+Cartographie des lieux de la médiation numérique en Bourgogne-Franche-Comté [titre] [en blanc sur fond de l'image fonds-mediation.jpg]
 
 Module de recherche
 
