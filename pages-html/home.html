@@ -28,7 +28,7 @@
   }
   .bfc-title {
     margin-bottom : 0 !important;
-    padding: 1em 0 1em 0;
+    padding: 1em 0 .2em 0;
   }
   .bfc-title-background{
     background-image: url('https://raw.githubusercontent.com/co-demos/BFC-ternum/master/illustrations/fonds-mediation-1024x384.jpg');
@@ -37,18 +37,9 @@
     background-size: cover;
     margin-bottom: 3em;
   }
-
-  .section-title-wrap::after {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    width: 38px;
+  .BFC-divider {
+    background-color: #ff4646;
     height: 1px;
-    margin: 0 auto;
-    background: #ff4646;
-    content: "";
-    z-index: 1;
   }
 
   .div-padding{
@@ -60,9 +51,7 @@
 <div id="home">
 
 
-  <div
-    class="top-section bfc-title-background has-text-white"
-    >
+  <div class="top-section bfc-title-background has-text-white">
     <br>
 
     <div class="section-title-wrap">
@@ -71,6 +60,8 @@
         <br>en Bourgogne-Franche-Comté
       </h1>
     </div>
+
+    <hr width="38px" class="BFC-divider">
 
     <div class="columns is-mobile is-centered">
       <div class="column is-two-thirds">
