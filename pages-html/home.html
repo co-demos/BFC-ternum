@@ -38,21 +38,55 @@
     margin-bottom: 3em;
   }
 
+  .section-title-wrap::after {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 38px;
+    height: 1px;
+    margin: 0 auto;
+    background: #ff4646;
+    content: "";
+    z-index: 1;
+  }
+
+  .div-padding{
+    margin: 0 3em 0 3em;
+  }
+
 </style>
 
 <div id="home">
 
 
   <div
-    class="top-section bfc-title-background"
+    class="top-section bfc-title-background has-text-white"
     >
     <br>
-    <h1 
-      class="title bfc-title is-1 has-text-centered has-text-white"
-      >
-      Cartographie des lieux de la médiation numérique 
-      <br>en Bourgogne-Franche-Comté
-    </h1>
+
+    <div class="section-title-wrap">
+      <h1 class="title bfc-title is-1 has-text-centered has-text-white">
+        Cartographie des lieux de la médiation numérique 
+        <br>en Bourgogne-Franche-Comté
+      </h1>
+    </div>
+
+    <div class="columns is-mobile is-centered">
+      <div class="column is-two-thirds">
+        <div class="has-text-left">
+          <p>
+            Les lieux de médiation numérique sont des espaces partagés s’adaptant aux nouvelles attentes, pratiques et technologies et s’inscrivant dans une même démarche : favoriser la rencontre et l’échange entre personnes, intérêts et compétences, qui n’ont pas forcément vocation à se croiser.
+          </p>
+          <br>
+          <p>
+            Ces lieux ont tous un objectif commun, mais chacun garde a sa particularité dans son fonctionnement et ses services proposés. 
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <br>
     <br>
   </div>
 
