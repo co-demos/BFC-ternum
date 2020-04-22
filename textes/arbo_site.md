@@ -74,21 +74,19 @@ Note: on doit pouvoir cocher plusieurs catégories dans chaque filtre et plusieu
 |   +-- Lieu de médiation publique
 |   +-- Lieu de médiation et de fabrication
 |   +-- Lieu de travail et de collaboration
+|   +-- Tiers-lieu
 
 
-+-- Labellisation
++-- Label
 |   +-- APTIC
-|   +-- Espace de coworking
-|   +-- FabLab
-|   +-- FabLab solidaire Orange
+|   +-- Charte régionale des tiers-lieux
 |   +-- France Tiers Lieu
 |   +-- Maison de Services Au Public
 |   +-- Maison France Services
 |   +-- Nièvre médiation numérique
-|   +-- PANDA
-|   +-- Réseau inclusion numérique Chalon 
 |   +-- Réseau Dijon métropole
-|   +-- Signataire de la charte des tiers-lieux
+|   +-- Réseau inclusion numérique Chalon 
+
 
 +-- Modalités d'accompagnement
 |   +-- En autonomie
@@ -99,26 +97,18 @@ Note: on doit pouvoir cocher plusieurs catégories dans chaque filtre et plusieu
 
 ```
 
-## fiche (dans liste) A FAIRE ENCORE
+## mode fiche sur carte
 
-Chaque fiche que l'on retrouvera dans liste doit mettre en forme les informations suivantes du tableur
+Chaque fiche que l'on retrouvera en cliquant sur un point de la carte présentera :
 ```
 
-+-- vue liste
-|   +-- image  
-|   +-- ville
-|   +-- nom du lieu
-|   +-- description
-
-+-- encadré 2
-|   +-- adresse complète
-|   +-- telephone
-|   +-- url 
-
-+-- encadré 3
-|   +-- typologie
-|   +-- publics
-|   +-- modèle juridique
+|   +-- Nom du lieu
+|   +-- Adresse et ville
+|   +-- Téléphone
+|   +-- Courriel
+|   +-- Site internet
+|   +-- Accessibilité
+|   +---- [pictos correspondant]
 
 ```
 ## Mode liste
@@ -144,3 +134,26 @@ Le mode fiche détaillée aura les entrées suivantes :
 |   +-- Site internet
 |   +-- Accessibilité
 |   +---- [pictos correspondant] 
+
++-- encadré 2
+|   +-- [image]
+|   +-- Labels
+|   +---- label 1 / label 2
+
++-- encadré 3
+|   +-- Tarifs
+|   +---- Tarif 1 / Tarif 2
+|   +-- Publics
+|   +---- Public 1 / Public 2
+|   +-- Modalités d’accompagnement
+|   +---- Mode 1 / Mode 2
+
++-- encadré 4
+|   +-- Horaires d’ouverture
+|   +---- Lundi :
+|   +---- Mardi :
+|   +---- Mercredi : 
+|   +---- Jeudi : 
+|   +---- Vendredi :
+|   +---- Samedi :
+|   +---- Dimanche : 
