@@ -6,13 +6,22 @@
 - Bruno Louis (design, contenus, technique)
 - Corine (contenus)
 
-## arborescence
+## arborescence (tous les liens sortants s'ouvrent dans une nouvelle fenêtre)
 
 ```
 .
-+-- La carte: vue carte par défaut - niveau de zoom Bourgogne-Franche-Comté
-+-- MedNum BFC [https://www.mednum-bfc.fr/] 
-+-- A propos [home]
++-- Logo MedNum BFC [https://www.mednum-bfc.fr/]
++-- La cartographie des lieux de médiation numérique en BFC
++-- La cartographie [home]
+|   +-- La carte: vue carte par défaut - niveau de zoom Bourgogne-Franche-Comté
+|   +-- La MedNum BFC [https://www.mednum-bfc.fr/]
+|   +-- Les données [https://bfc-carto.netlify.app/les-donnees]
+|   +-- Aide [https://bfc-carto.netlify.app/aide]
+|   +-- Mentions légales [https://bfc-carto.netlify.app/mentions-legales]
++-- Nos offres et services [https://www.mednum-bfc.fr/nos-offres-et-services/]
++-- A propos [https://www.mednum-bfc.fr/mednum-bfc-la-mission-regionale-pour-la-mediation-numerique/]
++-- Blog [https://www.mednum-bfc.fr/le-blog/]
++-- Nous contacter [https://www.mednum-bfc.fr/pour-nous-contacter-cest-simple/]
 ```
 
 ## footer
