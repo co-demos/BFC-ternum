@@ -121,14 +121,26 @@ Chaque fiche que l'on retrouvera dans liste doit mettre en forme les information
 |   +-- modèle juridique
 
 ```
-## tableur A FAIRE ENCORE
+## Mode liste
 
-Le tableur aura pour entrées:
+Le mode liste aura les entrées suivantes :
 ```
 +-- tableur
-|   +-- détails renvoyant vers la page de présentation dédiée (cf fiche)
+|   +-- détails renvoyant vers la page de présentation dédiée (cf fiche détaillée)
 |   +-- Nom du lieu
-|   +-- Adresse du lieu
 |   +-- Ville
 |   +-- Téléphone
 |   +-- Site internet
+```
+## Mode fiche détaillée
+
+Le mode fiche détaillée aura les entrées suivantes :
+```
++-- encadré 1
+|   +-- Nom du lieu
+|   +-- Adresse et ville
+|   +-- Téléphone
+|   +-- Courriel
+|   +-- Site internet
+|   +-- Accessibilité
+|   +---- [pictos correspondant] 
