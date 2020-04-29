@@ -120,6 +120,7 @@ Chaque fiche que l'on retrouvera en cliquant sur un point de la carte présenter
 |   +---- [pictos correspondant]
 
 ```
+
 ## Mode liste
 
 Le mode liste aura les entrées suivantes :
@@ -131,6 +132,7 @@ Le mode liste aura les entrées suivantes :
 |   +-- Téléphone
 |   +-- Site internet
 ```
+
 ## Mode fiche détaillée
 
 Le mode fiche détaillée aura les entrées suivantes :
